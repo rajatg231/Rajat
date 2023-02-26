@@ -69,7 +69,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatg231&show_icons=true&locale=en&layout=compact"
         alt="rajatg231" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatg231&" alt="rajatg231" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/rajat231" target="blank"><img align="center"
