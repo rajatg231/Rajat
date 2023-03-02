@@ -3,7 +3,10 @@
 
 - 🌱 I’m currently learning **NEST JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajatg231/](https://github.com/rajatg231/)
+- 👨‍💻 Here is a list of my [projects](https://github.com/rajatg231/):
+    * [Task Manager](https://github.com/rajatg231/TaskManager)
+    * [Learn SQL](https://github.com/rajatg231/Learn-sql)
+    * [Learn Bash](https://github.com/rajatg231/Learn-Bash)
 
 - 📄 Know about my experiences
   [https://drive.google.com/file/d/1RFEFvUfKvrzQFcYnXLVGGl8iz2QwIGHC/view?usp=sharing](https://drive.google.com/file/d/1RFEFvUfKvrzQFcYnXLVGGl8iz2QwIGHC/view?usp=sharing)
