@@ -8,8 +8,10 @@
     * [Learn SQL](https://github.com/rajatg231/Learn-sql)
     * [Learn Bash](https://github.com/rajatg231/Learn-Bash)
 
-- 📄 Know about my experiences
-  [Resume](https://drive.google.com/file/d/1RFEFvUfKvrzQFcYnXLVGGl8iz2QwIGHC/view?usp=sharing)
+- 📄 Know more about me:
+     * [rajatgautam.com](https://www.rajatgautam.com/)
+     * [Linkedin](https://www.linkedin.com/in/rajat231/)
+     * [Resume](https://drive.google.com/file/d/1RFEFvUfKvrzQFcYnXLVGGl8iz2QwIGHC/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
