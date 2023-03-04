@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **NEST JS**
+- 🌱 I’m currently learning **NEST JS**.
 
 - 👨‍💻 Here is a list of my [projects](https://github.com/rajatg231/):
     * [Task Manager](https://github.com/rajatg231/TaskManager)
@@ -9,7 +9,7 @@
     * [Learn Bash](https://github.com/rajatg231/Learn-Bash)
 
 - 📄 Know about my experiences
-  [https://drive.google.com/file/d/1RFEFvUfKvrzQFcYnXLVGGl8iz2QwIGHC/view?usp=sharing](https://drive.google.com/file/d/1RFEFvUfKvrzQFcYnXLVGGl8iz2QwIGHC/view?usp=sharing)
+  [Resume](https://drive.google.com/file/d/1RFEFvUfKvrzQFcYnXLVGGl8iz2QwIGHC/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
