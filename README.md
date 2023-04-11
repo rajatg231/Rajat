@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning **NEST JS**.
 
 - 👨‍💻 Here is a list of my [projects](https://github.com/rajatg231/):
-    * [Task Manager](https://github.com/rajatg231/TaskManager)
+    * [Flutter Task Manager](https://github.com/rajatg231/flutter-task-manager)
+    * [Express Task Manager](https://github.com/rajatg231/express-task-manager)
     * [Learn SQL](https://github.com/rajatg231/Learn-sql)
     * [Learn Bash](https://github.com/rajatg231/Learn-Bash)
 
