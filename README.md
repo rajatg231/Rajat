@@ -5,7 +5,9 @@
 
 - 👨‍💻 Here is a list of my [projects](https://github.com/rajatg231/):
     * [Flutter Task Manager](https://github.com/rajatg231/flutter-task-manager)
+    * [Spring Boot Task Manager API](https://github.com/rajatg231/spring-boot-task-manager-api)
     * [Express Task Manager](https://github.com/rajatg231/express-task-manager)
+    * [Express Task Manager API](https://github.com/rajatg231/express-task-manager-API)
     * [Learn SQL](https://github.com/rajatg231/Learn-sql)
     * [Learn Bash](https://github.com/rajatg231/Learn-Bash)
 
